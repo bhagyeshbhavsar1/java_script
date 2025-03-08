@@ -3,3 +3,6 @@ this is my java script code repo weher i have all the problems code which i have
 <br>
 my frist commit 
 
+i am noting down all the commonds and creating notes 
+
+
