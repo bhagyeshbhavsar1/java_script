@@ -1,1 +1,1 @@
-let a = prompt("hello world!");
+let a = console.log("hello world!");
