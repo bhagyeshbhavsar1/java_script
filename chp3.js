@@ -1,11 +1,11 @@
 //minimum output fuction Define the function min that takes two arguments and returns their minimum.
 
-/*const min = function(a,b){
+const min = function(a,b){
 
     return Math.min(a,b);
 }
 console.log(min(3,4));
-console.log(min(13,8));*/
+console.log(min(13,8));
 
 
 
@@ -21,7 +21,7 @@ Define a recursive function isEven corresponding to this description. The functi
 Test it on 50 and 75. See how it behaves on -1. Why? Can you think of a way to fix this?*/  
 
 
-/*let isEven = function(N){
+let isEven = function(N){
 
     if(N<0){
         return isEven(-N);
@@ -36,7 +36,7 @@ Test it on 50 and 75. See how it behaves on -1. Why? Can you think of a way to f
 }
 console.log(isEven(50));
 console.log(isEven(75));
-console.log(isEven(-1));*/
+console.log(isEven(-1));
 
 //we have added the conversion of the N in starting so when you put the negative no. like -1 it
 //conveted it into positive intiger and proced for the next process as -1 converts to 1 it write odd 
